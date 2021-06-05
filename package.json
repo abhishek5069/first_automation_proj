@@ -1,0 +1,26 @@
+{
+  "name": "firstautomation_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "puppeteer": "^10.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek5069/first_automation_proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek5069/first_automation_proj/issues"
+  },
+  "homepage": "https://github.com/abhishek5069/first_automation_proj#readme"
+}
